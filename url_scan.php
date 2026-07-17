@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: application/json');
 
-$VT_API_KEY="c0e98bb5e478ab006c5fdd2f2885716ba42a7bc702c562d3e52045d366555f8b";
+$VT_API_KEY="";
 
 $url=$_POST['url'] ?? '';
 
