@@ -22,7 +22,7 @@ This tool was built for security analysts who need to quickly investigate URLs w
 
 ## Screenshot
 
-(Add screenshot here)
+<img width="1917" height="888" alt="image" src="https://github.com/user-attachments/assets/0079cf66-4fed-4e3a-b9c4-d6c031d6dc4f" />
 
 ---
 
